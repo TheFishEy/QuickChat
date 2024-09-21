@@ -15,7 +15,7 @@
 
 Contex Diagram  
 ![][diagram.png]
- ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/diagram.png?raw=true)
+ ![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/diagram.png?raw=true](https://raw.githubusercontent.com/TheFishEy/QuickChat/refs/heads/main/diagram.png))
 
 
 
